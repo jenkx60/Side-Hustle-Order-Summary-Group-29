@@ -1,6 +1,11 @@
 * {
     /* border: 1px red solid; */
 }
+Body{
+Background-image:url("./Images/pattern-background-desktop.svg");
+Background-repeat:no-repeat
+Background-Position:center;
+}
 
 .container {
     text-align: center;
