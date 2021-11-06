@@ -2,8 +2,10 @@
     /* border: 1px red solid; */
 }
 Body{
+Box-sizing:border-box;
+Background-volle:hsl(225, 100%, 94%);
 Background-image:url("./Images/pattern-background-desktop.svg");
-Background-repeat:no-repeat
+Background-repeat:no-repeat;
 Background-Position:center;
 }
 
