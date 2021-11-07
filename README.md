@@ -55,6 +55,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS positioning: the following properties helped a lot:
   Justify-content, align-items, margin
 - Github navigation
+- Team work
 
 To see how you can add code snippets, see below:
 
@@ -94,5 +95,4 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Acknowledgments
 
-The Side Hustle Internship Group 29 team members
-We all worked together in a video call for at least two hours daily till completed
+The Side Hustle Internship Group 29 team members.
