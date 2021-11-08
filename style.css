@@ -148,7 +148,6 @@ button:hover{
 }
 
 @media screen and (max-width: 768px){
-
     button{
         width: 260px;
         margin: 10px auto 40px;
@@ -157,7 +156,6 @@ button:hover{
     #cancel-order{
         margin-top: 10px;
     }
-
 }
 
 #cancel-order{
