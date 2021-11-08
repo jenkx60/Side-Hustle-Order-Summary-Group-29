@@ -62,7 +62,7 @@ Order Summary Card Responsiveness/Mobile View
 - Github navigation
 - Team work
 - Importing fonts url in css
-- Enhancing websites by using images correctly
+- Proper application of the languages learned
 
 ### Continued development
 
@@ -76,11 +76,11 @@ Order Summary Card Responsiveness/Mobile View
 - [W3schools](https://www.w3schools.com)
 - [YouTube](https://youtube.com)
 - Side Hustle internship lessons
-
+- [Codecademy](https://www.codecademy.com)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - AIGORO AZEEM(https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Github - https://github.com/jenkx60/Side-Hustle-Order-Summary-Group-29.git
 
