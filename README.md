@@ -30,7 +30,14 @@ Users should be able to:
 
 ### Screenshot
 
-![order summary card desktop view](https://user-images.githubusercontent.com/81003701/140768578-86dcaa6d-fd88-4ef9-958e-323f2f4d5319.png)
+
+Order Summary Card Desktop View
+
+![order summary card desktop view](https://user-images.githubusercontent.com/81003701/140770491-44704866-bf12-45ae-9e27-ef6002f0c541.png)
+
+
+
+Order Summary Card Responsiveness/Mobile View
 
 ![order summary card responsiveness/mobile view](https://user-images.githubusercontent.com/81003701/140768208-9ce33e25-07e0-4567-af50-ad56ec40d366.png)
 
