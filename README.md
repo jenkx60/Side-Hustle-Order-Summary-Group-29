@@ -62,6 +62,7 @@ Order Summary Card Responsiveness/Mobile View
 - Github navigation
 - Team work
 - Importing fonts url in css
+- Enhancing websites by using images correctly
 
 ### Continued development
 
