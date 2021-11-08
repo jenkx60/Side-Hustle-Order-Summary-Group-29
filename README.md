@@ -26,16 +26,13 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 Users should be able to:
 
 - See hover states for interactive elements
+- Have a good experience from different devices
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![order summary card desktop view](https://user-images.githubusercontent.com/81003701/140768578-86dcaa6d-fd88-4ef9-958e-323f2f4d5319.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![order summary card responsiveness/mobile view](https://user-images.githubusercontent.com/81003701/140768208-9ce33e25-07e0-4567-af50-ad56ec40d366.png)
 
 
 ### Links
@@ -54,37 +51,24 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - CSS positioning: the following properties helped a lot:
   Justify-content, align-items, margin
+- Used Box-shadow and overlay property for the first time in CSS
 - Github navigation
 - Team work
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
+- Importing fonts url in css
 
 ### Continued development
 
 - HTML structure 
 - CSS positioning especially
+- Git command line
 
 
 ### Useful resources
 
-- [W3schools](https://www.w3schools.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [W3schools](https://www.w3schools.com)
+- [YouTube](https://youtube.com)
+- Side Hustle internship lessons
+
 
 ## Author
 
@@ -95,4 +79,5 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Acknowledgments
 
-The Side Hustle Internship Group 29 team members.
+Side Hustle Internship Group 29 team members.
+Side Hustle Internship frontend mentor.
