@@ -44,8 +44,8 @@ Order Summary Card Responsiveness/Mobile View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/jenkx60/Side-Hustle-Order-Summary-Group-29.git)
+- Live Site URL: (https://ordersummarysh29.netlify.app/)
 
 ## My process
 
@@ -53,8 +53,9 @@ Order Summary Card Responsiveness/Mobile View
 
 - HTML
 - CSS
+- Flex Box
 
-### What I learned
+### What I learnt
 
 - CSS positioning: the following properties helped a lot:
   Justify-content, align-items, margin
@@ -62,14 +63,13 @@ Order Summary Card Responsiveness/Mobile View
 - Github navigation
 - Team work
 - Importing fonts url in css
-- Proper application of the languages learned
+- Proper application of the languages learnt
 
 ### Continued development
 
 - HTML structure 
 - CSS positioning especially
 - Git command line
-
 
 ### Useful resources
 
@@ -80,10 +80,7 @@ Order Summary Card Responsiveness/Mobile View
 
 ## Author
 
-- Website - AIGORO AZEEM(https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Github - https://github.com/jenkx60/Side-Hustle-Order-Summary-Group-29.git
-
 
 ## Acknowledgments
 
