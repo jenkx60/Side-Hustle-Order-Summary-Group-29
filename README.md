@@ -78,11 +78,11 @@ Order Summary Card Responsiveness/Mobile View
 - Side Hustle internship lessons
 - [Codecademy](https://www.codecademy.com)
 
-## Author
+### Author
 
 - Github - https://github.com/jenkx60/Side-Hustle-Order-Summary-Group-29.git
 
-## Acknowledgments
+### Acknowledgments
 
 Side Hustle Internship Group 29 team members.
 Side Hustle Internship frontend mentor.
